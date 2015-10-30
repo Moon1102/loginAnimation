@@ -10,6 +10,6 @@
 3.Add the following code in the AppDelegate.swift.
 
 ```Swift
-  let loginVC = UIStoryboard(name: "Login", bundle: nil).instantiateInitialViewController()
+  let loginVC = UIStoryboard(name: "LoginAnimation", bundle: nil).instantiateInitialViewController()
   window?.rootViewController = loginVC
 ```
