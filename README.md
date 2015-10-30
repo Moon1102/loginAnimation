@@ -5,6 +5,8 @@
 
 ## Usage
 
+![](https://github.com/Moon1102/loginAnimation/raw/master/Demo.gif)<br>  
+
 1.Create a new project.<br>
 2.Drag the contents of the "loginAnimation" folder from demo to your project.<br>
 3.Add the following code in the AppDelegate.swift.
